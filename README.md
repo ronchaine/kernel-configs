@@ -14,7 +14,7 @@ Copy to `.config` in linux source directory or load from
 `linux-5.14-thinkpad-x1t-quitelight.conf`
 -----------------------------------------
 ### Kernel patches required 
-`trackpoint.patch` from [https://github.com/da-cali/linux-x1-tablet]
+`trackpoint.patch` from https://github.com/da-cali/linux-x1-tablet
 
 ### Description
 Pretty minimal config that works well for Thinkpad X1 Tablet Gen 3.
