@@ -14,7 +14,7 @@ Thinkpad X1 tablet Gen3 but it is lightweight enough.
 
 ### Changes
 - Added
-- Moved some modules to builtins and disabled bay trail (e0d73731e)
+- Moved some modules to builtins and disabled bay trail (f537cacab66f690cb264c986f87748fe31535a05)
 
 ### Unclaimed hardware
 
